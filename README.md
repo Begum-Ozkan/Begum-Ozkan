@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFCueiO3gIUoQ/profile-displaybackgroundimage-shrink_350_1400/B4DZqxg5YuKIAc-/0/1763914783687?e=1765411200&v=beta&t=R68VKq08vuj6Sdwiur4KjGpicdhwc5dze0iGxvHDRrA)
+
 <h1 align="center">Hi 👋, I'm Begüm Özkan</h1>
 <h3 align="center">A passionate Data Science & Machine Learning Student from Turkey.</h3>
 
